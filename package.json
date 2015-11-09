@@ -34,7 +34,7 @@
   "dependencies": {
     "deep-equal": "^1.0.0",
     "object-assign": "^2.0.0",
-    "react-draggable": "^1.0.2",
+    "react-draggable": "1.0.0",
     "react-resizable": "^0.4.2"
   },
   "devDependencies": {
