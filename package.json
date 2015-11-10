@@ -34,8 +34,8 @@
   "dependencies": {
     "deep-equal": "^1.0.0",
     "object-assign": "^2.0.0",
-    "react-draggable": "1.0.0",
-    "react-resizable": "^0.4.2"
+    "react-draggable": "git://github.com/AHBSky/react-draggable.git#master",
+    "react-resizable": "git://github.com/AHBSky/react-resizable.git#master"
   },
   "devDependencies": {
     "babel": "^5.0.1",
